@@ -11,3 +11,6 @@ The research includes the individuals data and also their:
   -	Belly button scrubbing frequency.
   -	Belly button biological footprint.
   
+<p align="center">
+<img src="images/Petridish.png” width="60%" height="60%">
+</p>
