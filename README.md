@@ -11,7 +11,7 @@ The research includes the individuals data and also their:
   -	Belly button scrubbing frequency.
   -	Belly button biological footprint.
   
-The interactive dashboard can be found in the link that follows
+The interactive dashboard can be found in the link that follows:
 <br>
 <br>
 <p align="center">
