@@ -11,3 +11,10 @@ The research includes the individuals data and also their:
   -	Belly button scrubbing frequency.
   -	Belly button biological footprint.
   
+The interactive dashboard can be found in the link that follows and please feel free to try it on your own:
+<br>
+<br>
+<p align="center">
+:microbe: <b>Belly Button Biodiversity Interactive Dashboard:</b> https://abdulla971.github.io/plotly_deploy/ :microbe:
+</p>
+<br>
